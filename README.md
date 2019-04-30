@@ -1,4 +1,4 @@
 ## The Odin Project - Web Dev 101
 
-** Project: Rock Paper Scissors: **
+<b> Project: Rock Paper Scissors </b>
 Playing Rock Paper Scissors against the computer, using vanilla JavaScript
